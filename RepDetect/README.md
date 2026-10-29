@@ -3,10 +3,6 @@
 
 <h3 align="center">Make counting of exercise easier with FitSense.</h3>
 
-<p align="center">
-  <img width="200" height="160" src="https://users.metropolia.fi/~shilpasy/repdetectLogo.png" alt="App Logo">
-</p>
-
 ## Mobile project with AI
 
 Welcome to FitSense, an innovative Android application developed with Kotlin that leverages the capabilities of MediaPipe Pose Landmark Detection. FitSense accurately counts repetitions, enhancing your workout experience.
