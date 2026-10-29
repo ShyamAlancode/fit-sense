@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
-<h1 align="center">RepDetect</h1> 
+<h1 align="center">Fitsense</h1> 
 
-<h3 align="center">Make counting of exercise easier with RepDetect.</h3>
+<h3 align="center">Make counting of exercise easier with FitSense.</h3>
 
 <p align="center">
   <img width="200" height="160" src="https://users.metropolia.fi/~shilpasy/repdetectLogo.png" alt="App Logo">
@@ -9,7 +9,7 @@
 
 ## Mobile project with AI
 
-Welcome to RepDetect, an innovative Android application developed with Kotlin that leverages the capabilities of MediaPipe Pose Landmark Detection. RepDetect accurately counts repetitions, enhancing your workout experience.
+Welcome to FitSense, an innovative Android application developed with Kotlin that leverages the capabilities of MediaPipe Pose Landmark Detection. FitSense accurately counts repetitions, enhancing your workout experience.
 
 
 ## Table of Contents
@@ -32,7 +32,7 @@ Welcome to RepDetect, an innovative Android application developed with Kotlin th
 
 ## Overview
 
-Developed as part of our third-year course at Metropolia University of Applied Sciences, RepDetect is a collaborative effort by a team of four students. Our primary objective was to create an innovative fitness application adhering to specific guidelines and meeting the course requirements.
+Developed as part of our third-year course at Metropolia University of Applied Sciences, FitSense is a collaborative effort by a team of four students. Our primary objective was to create an innovative fitness application adhering to specific guidelines and meeting the course requirements.
 
 
 ## Features
